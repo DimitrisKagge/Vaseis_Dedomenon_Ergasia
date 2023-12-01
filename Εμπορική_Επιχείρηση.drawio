@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T17:28:11.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="N-RXY4zoJsA09BFVFFBV" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T17:44:20.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W8oSP7aj38rlHGgd5GKQ" version="22.1.5" type="github">
   <diagram name="Σελίδα-1" id="LRhwLYZ0XrOosCkNov4p">
-    <mxGraphModel dx="840" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1mnrNNHJ70fO4R5j_hnI-26" value="πώληση" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1mnrNNHJ70fO4R5j_hnI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.393;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1mnrNNHJ70fO4R5j_hnI-26" target="1mnrNNHJ70fO4R5j_hnI-3">
           <mxGeometry relative="1" as="geometry" />
